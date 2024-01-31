@@ -29,7 +29,6 @@ __pycache__
 cover
 .DS_Store
 .eggs
-.env
 .envrc
 .idea
 .mypy_cache
@@ -66,7 +65,6 @@ superset-websocket/config.json
 *.js.map
 node_modules
 npm-debug.log*
-superset/static/assets
 superset/static/version_info.json
 superset-frontend/**/esm/*
 superset-frontend/**/lib/*
